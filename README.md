@@ -4,6 +4,7 @@
 
 | Date       | Name              | Site                                           | Type       | Solved                                                       |
 | ---------- | ----------------- | ---------------------------------------------- | ---------- | ------------------------------------------------------------ |
+| 2021.08.11 | 숨바꼭질 6        | [17087](https://www.acmicpc.net/problem/17087) | math       | [solved](https://github.com/jinsuSang/javascript-algorithm/blob/main/boj/bruteforce/boj17087.js) |
 | 2021.08.11 | 부분수열의 합     | [1182](https://www.acmicpc.net/problem/1182)   | bruteforce | [solved](https://github.com/jinsuSang/javascript-algorithm/blob/main/boj/bruteforce/boj1182.js) |
 | 2021.08.09 | 팩토리얼 0의 개수 | [1676](https://www.acmicpc.net/problem/1676)   | math       | [solved](https://github.com/jinsuSang/javascript-algorithm/blob/main/boj/math/boj1676.js) |
 | 2021.08.09 | 조합 0의 개수     | [2004](https://www.acmicpc.net/problem/2004)   | math       | [solved](https://github.com/jinsuSang/javascript-algorithm/blob/main/boj/math/boj2004.js) |
